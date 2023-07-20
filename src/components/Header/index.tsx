@@ -12,7 +12,7 @@ export function Header(){
                    <HiLocationMarker /> <p>Belo Horizonte, MG</p>
                 </div>
                 <div className="Cart">
-                    <FaShoppingCart/> Cariinho
+                    <FaShoppingCart/> Carrinho
                 </div>
             </div>
             </nav>
